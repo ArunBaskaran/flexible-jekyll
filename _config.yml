@@ -3,7 +3,10 @@ description: A summary of my research projects, including a description of my Ph
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+#site-twitter: #if your site has a twitter account, enter it here
+
+logo: Brooklyn.jpg
+page-img: Brooklyn.jpg
 
 # Author Settings
 author: Arun Baskaran # add your name
