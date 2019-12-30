@@ -10,7 +10,7 @@ page-img: Brooklyn.jpg
 
 # Author Settings
 author: Arun Baskaran # add your name
-author-img: Brooklyn.jpg # add your photo
+author-img: rsz_brooklyn.jpg # add your photo
 about-author: A summary of my research projects, including a description of my PhD thesis, my Masters project, and other projects that i have worked on during my PhD.
 permalink: ':title/'
 #social-twitter: # add your Twitter handle
