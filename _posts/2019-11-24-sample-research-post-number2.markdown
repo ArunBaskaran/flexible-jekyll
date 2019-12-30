@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Simulation of Microstructural evolution and analysis of grain growth kinetics"
+
+img: sea.png # Add image post (optional)
 date:   2019-12-24 18:24:51 -0500
 
 ---
