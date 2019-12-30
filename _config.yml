@@ -1,5 +1,5 @@
 title: Research Portfolio
-description: A summary of my research projects, including a description of my PhD thesis, my Masters project, and other projects that i have worked on during my PhD. My [CV](assets/pdfs/CV_Baskaran.pdf).
+description: A summary of my research projects, including a description of my PhD thesis, my Masters project, and other projects that i have worked on during my PhD. 
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +11,7 @@ page-img: Brooklyn.jpg
 # Author Settings
 author: Arun Baskaran # add your name
 author-img: rsz_brooklyn.jpg # add your photo
-about-author: A summary of my research projects, including a description of my PhD thesis, my Masters project, and other projects that i have worked on during my PhD. My [CV](assets/pdfs/CV_Baskaran.pdf).
+about-author: A summary of my research projects, including a description of my PhD thesis, my Masters project, and other projects that i have worked on during my PhD.
 permalink: ':title/'
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
